@@ -1,5 +1,10 @@
 # restaurantApplication
 
+Api : https://opentable.herokuapp.com/ 
+
+Pacman Indicator : https://github.com/n4kz/react-native-indicators
+
+
 
 ![1](https://user-images.githubusercontent.com/63520134/85123650-7b22fa00-b1dd-11ea-859e-05c54a6a5ba7.png)
 ![2](https://user-images.githubusercontent.com/63520134/85123646-79593680-b1dd-11ea-9ceb-4da1770b90ea.png)
